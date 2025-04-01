@@ -12,7 +12,7 @@ Full Stack Developer @ Smartzen Private Limited
 
 ### I code in
 <img width="50" height="50" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-<img width="50" height="50" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/><img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/mysql.png" alt="mysql"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/cloud-function.png" alt="cloud-function"/>
+<img width="50" height="50" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/><img width="48" height="48" src="https://img.icons8.com/color/48/mysql--v1.png" alt="mysql--v1"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/cloud-function.png" alt="cloud-function"/>
 
 
 
