@@ -1,7 +1,8 @@
 ## Hi there 👋 It's me Lokeswaran
 
 Full Stack Developer @ Smartzen Private Limited 
-<img align="right" width="370" height="290" src=[["https://lottie.host/embed/e26e995c-822e-4976-8003-594aaf70a55a/EopQcI0qQR.lottie"](https://imgur.com/dSZ09KI)](https://imgur.com/a/hPYPv6q)>
+
+<img align="right" width="370" height="290" src=[!["https://lottie.host/embed/e26e995c-822e-4976-8003-594aaf70a55a/EopQcI0qQR.lottie"](https://imgur.com/dSZ09KI)](https://imgur.com/a/hPYPv6q)>
 
 
 -⚡Here's my [portfolio](https://lokeswaran-m.github.io/Portfolio-/)                                                 
