@@ -21,5 +21,5 @@ Full Stack Developer @ Smartzen Private Limited
 [![Lokeswaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokeswaran-M&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
+[![Lokeswaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokeswaran-M&bg_color=d1e7ff&color=2c8fb6&line=4493f8&point=0d117c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
