@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Lokeswaran
 
 Full Stack Developer @ Smartzen Private Limited 
-<img align="right" width="370" height="290" src="https://lottie.host/91333a90-e343-4a6c-90ea-e188235d288b/0KXFeQoxq1.json">
+<img align="right" width="370" height="290" src="https://lottie.host/91333a90-e343-4a6c-90ea-e188235d288b/0KXFeQoxq1.png">
 
 -⚡Here's my [portfolio](https://lokeswaran-m.github.io/Portfolio-/)                                                 
 <!-- - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
