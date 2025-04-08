@@ -2,7 +2,7 @@
 
 Full Stack Developer @ Smartzen Private Limited 
 
-<img align="right" width="370" height="290" src="https://i.imgur.com/dSZ09KI.gif">
+<img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbngzanI2YmFvdTFieXI5dTRyazgzcGNyZXJnNDdweGFhMGdqOXl4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 
 -⚡Here's my [portfolio](https://lokeswaran-m.github.io/Portfolio-/)                                                 
