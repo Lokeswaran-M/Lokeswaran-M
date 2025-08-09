@@ -20,8 +20,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lokeswaran-M&theme=dark&show_icons=true&&hide=issues,contribs" />
   &nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeswaran-M&layout=donut&theme=dark" />
 </p>
 
