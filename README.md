@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Lokeswaran
 
-Full Stack Developer @ Smartzen Private Limited 
+Full Stack Developer @ [Smartzen Private Limited](https://smartzensolutions.com)
 
 <img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbngzanI2YmFvdTFieXI5dTRyazgzcGNyZXJnNDdweGFhMGdqOXl4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
