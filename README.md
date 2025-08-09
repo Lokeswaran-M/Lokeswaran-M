@@ -21,7 +21,7 @@ Full Stack Developer @ [SmartZEN Solutions Private Limited](https://smartzensolu
   &nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeswaran-M&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeswaran-M&layout=donut&theme=dark" />
 </p>
 
 ![Lokeswaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lokeswaran-M&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
