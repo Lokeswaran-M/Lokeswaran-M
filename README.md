@@ -5,7 +5,7 @@ Full Stack Developer @ Smartzen Private Limited
 <img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbngzanI2YmFvdTFieXI5dTRyazgzcGNyZXJnNDdweGFhMGdqOXl4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 
--⚡Here's my [portfolio](https://lokeswaran-m.github.io/Portfolio-/)                                                 
+-⚡Here's my [portfolio](https://lokeswaran-m.github.io/Portfolio)                                                 
 <!-- - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
  - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/) -->
 - Social Presence
@@ -14,9 +14,9 @@ Full Stack Developer @ Smartzen Private Limited
 
 
 ### I code in
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/59671720-0ed2-4fd4-ae28-e7700d979b24" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/de679afa-5ee0-46f1-bcbf-c1ae05998501" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/28b8d900-e885-4a9f-ae52-d9b461a1e0c1" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/edc2f55a-7779-41e5-a74b-67414235f758" />
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="50" height="50" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/><img width="50" height="50" src="https://img.icons8.com/color/48/mysql--v1.png" alt="mysql--v1"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/cloud-function.png" alt="cloud-function"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/59671720-0ed2-4fd4-ae28-e7700d979b24" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/de679afa-5ee0-46f1-bcbf-c1ae05998501" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/28b8d900-e885-4a9f-ae52-d9b461a1e0c1" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/edc2f55a-7779-41e5-a74b-67414235f758" /> <img width="50" height="50" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/41c1a27b-2be3-4848-9c26-66ac2ce87d07" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/68548b9a-086b-49e0-9059-d8caa84ce826" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/338729a0-7b9d-49c4-a2bf-31934e3eadc6" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f5c9803d-4fcf-4467-bd54-ebf0bf8e4142" /> <img width="50" height="50" src="https://img.icons8.com/color/48/mysql--v1.png" alt="mysql--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/43d05892-7a28-4cf7-ac72-f5360f14efbb" />
+
+
 
 
 
