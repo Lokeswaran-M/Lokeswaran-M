@@ -9,7 +9,7 @@
 
 ### Social Presence
   
- [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/4d3bd949-c791-4d94-b37e-ab54edb3b60d" />](https://www.instagram.com/mr__l_o_k_i__)[<img width="150" height="110" alt="image" src="https://github.com/user-attachments/assets/79e5179f-6a4b-4224-86f0-0e0223115a0b"/>](https://www.linkedin.com/in/lokeswaran-m)[<img width="120" height="80" alt="image" src="https://github.com/user-attachments/assets/8fda4c8b-40a0-4b8c-8332-bbf4265068dc" />](https://x.com/Mr_l_o_k_i_) <br />
+ [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/4d3bd949-c791-4d94-b37e-ab54edb3b60d" />](https://www.instagram.com/mr__l_o_k_i__)[<img width="140" height="110" alt="image" src="https://github.com/user-attachments/assets/79e5179f-6a4b-4224-86f0-0e0223115a0b"/>](https://www.linkedin.com/in/lokeswaran-m)[<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/8fda4c8b-40a0-4b8c-8332-bbf4265068dc" />](https://x.com/Mr_l_o_k_i_) <br />
 
 
 ### I code in
