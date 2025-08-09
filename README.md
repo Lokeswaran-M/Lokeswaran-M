@@ -5,7 +5,7 @@ Full Stack Developer @ [SmartZEN Solutions Private Limited](https://smartzensolu
 <img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbngzanI2YmFvdTFieXI5dTRyazgzcGNyZXJnNDdweGFhMGdqOXl4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 
--⚡Here's my [portfolio](https://lokeswaran-m.github.io/Portfolio)                                                 
+-⚡Here's my [Portfolio](https://lokeswaran-m.github.io/Portfolio)                                                 
 <!-- - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
  - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/) -->
 - Social Presence
