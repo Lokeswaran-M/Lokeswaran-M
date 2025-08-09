@@ -9,8 +9,7 @@ Full Stack Developer @ Smartzen Private Limited
 <!-- - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
  - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/) -->
 - Social Presence
-<br /> [<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8d004fd4-1320-4e38-9f52-cb5f07044358" />](https://www.linkedin.com/in/lokeswaran-m)
-[<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/15b010e8-515d-46a0-962b-efc54d56fa43" />](https://www.instagram.com/mr__l_o_k_i__) [<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8fda4c8b-40a0-4b8c-8332-bbf4265068dc" />](https://x.com/Mr_l_o_k_i_) 
+<br /> [<img width="110" height="80" alt="image" src="https://github.com/user-attachments/assets/4d3bd949-c791-4d94-b37e-ab54edb3b60d" />](https://www.instagram.com/mr__l_o_k_i__) [<img width="140" height="110" alt="image" src="https://github.com/user-attachments/assets/8d004fd4-1320-4e38-9f52-cb5f07044358" />](https://www.linkedin.com/in/lokeswaran-m)[<img width="110" height="80" alt="image" src="https://github.com/user-attachments/assets/8fda4c8b-40a0-4b8c-8332-bbf4265068dc" />](https://x.com/Mr_l_o_k_i_) 
 
 
 ### I code in
