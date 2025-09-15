@@ -1,4 +1,4 @@
-** Hi there 👋 It's me Lokeswaran **
+**Hi there 👋 It's me Lokeswaran**
 
 #### Full Stack Developer @ [SmartZEN Solutions Private Limited](https://smartzensolutions.com)
 
