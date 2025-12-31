@@ -1,13 +1,13 @@
-**Hi there 👋 It's me Lokeswaran**
+### **Hi there 👋 It's me Lokeswaran**
 
-#### Full Stack Developer @ [SmartZEN Solutions Private Limited](https://smartzensolutions.com)
+### Full Stack Developer @ [SmartZEN Solutions Private Limited](https://smartzensolutions.com)
 
 <img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbngzanI2YmFvdTFieXI5dTRyazgzcGNyZXJnNDdweGFhMGdqOXl4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 
-#### Here's my [Portfolio](https://lokeswaran-m.github.io/Portfolio)<br />                                                
+### Here's my [Portfolio](https://lokeswaran-m.github.io/Portfolio)<br />                                                
 
-**Social Presence**
+### **Social Presence**
   
  [<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/0acc64cc-df2e-4783-9a59-db21f8d92b73" />](https://www.instagram.com/mr__l_o_k_i__)
  &nbsp;&nbsp;&nbsp;&nbsp;
