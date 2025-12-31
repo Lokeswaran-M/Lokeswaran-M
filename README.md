@@ -11,7 +11,7 @@
   
  [<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/0acc64cc-df2e-4783-9a59-db21f8d92b73" />](https://www.instagram.com/mr__l_o_k_i__)
  &nbsp;&nbsp;&nbsp;&nbsp;
- [<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/977858bf-2364-4f32-a7c0-a61f132c71fe" />](https://www.linkedin.com/in/lokeswaran-m)
+ [<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/977858bf-2364-4f32-a7c0-a61f132c71fe" />](https://www.linkedin.com/in/lokeswaran-m)
  &nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;
  [<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/9e5c523f-ac5c-4466-900d-29a52a17684a" />](https://x.com/Mr_l_o_k_i_) <br />
