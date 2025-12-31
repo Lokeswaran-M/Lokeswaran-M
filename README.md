@@ -9,10 +9,15 @@
 
 **Social Presence**
   
- [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/4d3bd949-c791-4d94-b37e-ab54edb3b60d" />](https://www.instagram.com/mr__l_o_k_i__)[<img width="140" height="110" alt="image" src="https://github.com/user-attachments/assets/79e5179f-6a4b-4224-86f0-0e0223115a0b"/>](https://www.linkedin.com/in/lokeswaran-m)[<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/8fda4c8b-40a0-4b8c-8332-bbf4265068dc" />](https://x.com/Mr_l_o_k_i_) <br />
+ [<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/0acc64cc-df2e-4783-9a59-db21f8d92b73" />](https://www.instagram.com/mr__l_o_k_i__)
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ [<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/977858bf-2364-4f32-a7c0-a61f132c71fe" />](https://www.linkedin.com/in/lokeswaran-m)
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ [<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/9e5c523f-ac5c-4466-900d-29a52a17684a" />](https://x.com/Mr_l_o_k_i_) <br />
 
 
-**I code in**
+## **I code in**
 
 <br /> <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/28b8d900-e885-4a9f-ae52-d9b461a1e0c1" /> <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/edc2f55a-7779-41e5-a74b-67414235f758" /> 
  <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/58da6777-622e-4601-b435-d23941ac3e94" /> <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/41c1a27b-2be3-4848-9c26-66ac2ce87d07" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cc832df2-fa81-4335-8974-de67c7a8d390" />
