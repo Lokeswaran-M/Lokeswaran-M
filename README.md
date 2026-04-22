@@ -1,14 +1,25 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=200&section=header&text=Lokeswaran%20M&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+</div>
+
+
+
 ### **Hi there 👋 It's me Lokeswaran**
 
 ### Full Stack Developer @ [SmartZEN Solutions Private Limited](https://smartzensolutions.com)
 
-<img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbngzanI2YmFvdTFieXI5dTRyazgzcGNyZXJnNDdweGFhMGdqOXl4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img 
+  align="right" 
+  width="380" 
+  style="margin-left:15px; border-radius:10px;" 
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbngzanI2YmFvdTFieXI5dTRyazgzcGNyZXJnNDdweGFhMGdqOXl4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" 
+/>
 
 
 ### Here's my [Portfolio](https://lokeswaran-m.github.io/Portfolio)<br />                                                
 
 ### **Social Presence**
-<div align="center">
+<div align="left">
 
 <a href="https://www.instagram.com/mr__l_o_k_i__">
   <img src="https://github.com/user-attachments/assets/0acc64cc-df2e-4783-9a59-db21f8d92b73" width="80" style="margin:10px;" />
@@ -26,7 +37,7 @@
 
 ## **I code in**
 
-<div align="center">
+<div align="left">
 
 <img src="https://github.com/user-attachments/assets/28b8d900-e885-4a9f-ae52-d9b461a1e0c1" width="70" />
 <img src="https://github.com/user-attachments/assets/edc2f55a-7779-41e5-a74b-67414235f758" width="70" />
@@ -72,3 +83,15 @@
   <img alt="Lokeswaran's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeswaran-M&bg_color=transparent&color=51f565&line=51f565&point=51f565&area=true&hide_border=true">
 </picture>
 
+
+
+
+
+
+
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=120&section=footer&animation=twinkling" width="100%" />
+</div>
