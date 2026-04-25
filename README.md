@@ -78,12 +78,15 @@
 </p> 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lokeswaran-M&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lokeswaran-M">
-  <img alt="Lokeswaran's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeswaran-M&bg_color=transparent&color=51f565&line=51f565&point=51f565&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lokeswaran-M&bg_color=0d1117&color=00e5ff&line=00e5ff&point=00e5ff&area=true&area_color=0099ff&hide_border=true">
+  
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lokeswaran-M&color=00e5ff&line=00e5ff&point=00e5ff&area=true&area_color=0099ff">
+  
+  <img alt="Lokeswaran's GitHub activity graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeswaran-M&bg_color=0d1117&color=00e5ff&line=00e5ff&point=00e5ff&area=true&area_color=0099ff&hide_border=true">
 </picture>
-
-
 
 
 <div align="center">
