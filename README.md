@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=200&section=header&text=Lokeswaran%20M&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,70:0d47a1,100:1f6feb&height=220&section=header&text=Lokeswaran%20M&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=58a6ff" width="100%" />
 </div>
-
 
 
 ### **Hi there 👋 It's me Lokeswaran**
@@ -19,18 +18,20 @@
 ### Here's my [Portfolio](https://lokeswaran-m.github.io/Portfolio)<br />                                                
 
 ### **Social Presence**
-<div align="left">
+<div align="center">
 
 <a href="https://www.instagram.com/mr__l_o_k_i__">
-  <img src="https://github.com/user-attachments/assets/0acc64cc-df2e-4783-9a59-db21f8d92b73" width="80" style="margin:10px;" />
+  <img src="https://github.com/user-attachments/assets/0acc64cc-df2e-4783-9a59-db21f8d92b73" width="70" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/lokeswaran-m">
-  <img src="https://github.com/user-attachments/assets/977858bf-2364-4f32-a7c0-a61f132c71fe" width="80" style="margin:10px;" />
+  <img src="https://github.com/user-attachments/assets/96dfe885-dc52-457c-8b01-724ac3db8153" width="70" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/Mr_l_o_k_i_">
-  <img src="https://github.com/user-attachments/assets/9e5c523f-ac5c-4466-900d-29a52a17684a" width="80" style="margin:10px;" />
+  <img src="https://github.com/user-attachments/assets/ece4f341-c860-47db-a041-78844b60887d" width="70" />
 </a>
 
 </div>
@@ -42,19 +43,18 @@
 <img src="https://github.com/user-attachments/assets/28b8d900-e885-4a9f-ae52-d9b461a1e0c1" width="70" />
 <img src="https://github.com/user-attachments/assets/edc2f55a-7779-41e5-a74b-67414235f758" width="70" />
 <img src="https://github.com/user-attachments/assets/58da6777-622e-4601-b435-d23941ac3e94" width="70" />
-<img src="https://github.com/user-attachments/assets/41c1a27b-2be3-4848-9c26-66ac2ce87d07" width="70" />
-<img src="https://github.com/user-attachments/assets/cc832df2-fa81-4335-8974-de67c7a8d390" width="80" />
+<img src="https://github.com/user-attachments/assets/e43a8460-4543-4ef0-b9b5-8361e0eb2327" width="70" />
+<img src="https://github.com/user-attachments/assets/cc832df2-fa81-4335-8974-de67c7a8d390" width="70" />
 <img src="https://github.com/user-attachments/assets/03fbc23f-a168-4fcf-aba6-8a1346fee8c8" width="70" />
-<img src="https://github.com/user-attachments/assets/68548b9a-086b-49e0-9059-d8caa84ce826" width="80" />
+<img src="https://github.com/user-attachments/assets/68548b9a-086b-49e0-9059-d8caa84ce826" width="70" />
 <img src="https://github.com/user-attachments/assets/338729a0-7b9d-49c4-a2bf-31934e3eadc6" width="70" />
 <img src="https://github.com/user-attachments/assets/d1e5e71f-fb94-41d1-a7c7-be99568513ec" width="70" />
-<img src="https://github.com/user-attachments/assets/f5c9803d-4fcf-4467-bd54-ebf0bf8e4142" width="70" />
+<img src="https://github.com/user-attachments/assets/10d683be-ea31-4d04-803c-26dfdd7e53c8" width="70" />
 <img src="https://github.com/user-attachments/assets/ebd46c89-04ec-4592-84bc-5dc5878c710f" width="70" />
 <img src="https://github.com/user-attachments/assets/afbc6c90-965f-42e7-ad9c-08b35088e2a8" width="70" />
 <img src="https://github.com/user-attachments/assets/59671720-0ed2-4fd4-ae28-e7700d979b24" width="70" />
 <img src="https://github.com/user-attachments/assets/de679afa-5ee0-46f1-bcbf-c1ae05998501" width="70" />
 <img src="https://github.com/user-attachments/assets/43d05892-7a28-4cf7-ac72-f5360f14efbb" width="70" />
-
 </div>
 <div align="center">
   <picture>
@@ -86,12 +86,6 @@
 
 
 
-
-
-
-
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,27&height=120&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,70:0d47a1,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
 </div>
