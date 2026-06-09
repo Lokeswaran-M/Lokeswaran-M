@@ -63,7 +63,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Lokeswaran-M/Lokeswaran-M/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lokeswaran-M&theme=dark&show_icons=true&&hide=issues,contribs">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Lokeswaran-M&theme=transparent&show_icons=true&&hide=issues,contribs">
@@ -75,7 +75,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeswaran-M&layout=donut&theme=transparent">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeswaran-M&layout=donut&theme=transparent">
   </picture>
-</p> 
+</p>  -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
