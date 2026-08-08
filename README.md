@@ -15,7 +15,7 @@
 />
 
 
-### Here's my [Portfolio](https://lokeswaran-m.github.io/Portfolio)<br />                                                
+### Here's my [Portfolio](https://lokeswaran.in/)<br />                                                
 
 ### **Social Presence**
 <div align="center">
